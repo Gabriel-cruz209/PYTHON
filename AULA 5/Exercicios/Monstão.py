@@ -1,5 +1,5 @@
-import pyshorteners as ps
-url = ""
-u = ps.Shortener().tinyurl.short(url)
+#import pyshorteners as ps
+#url = ""
+#u = ps.Shortener().tinyurl.short(url)
 
-print(u)
+#print(u)
